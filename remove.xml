@@ -136,6 +136,7 @@
   <remove-project name="platform/packages/screensavers/WebView" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/apps/Stk" />
+  <remove-project name="platform/packages/services/Telephony" />
 
   <!-- System -->
   <remove-project name="platform/system/bt" />
