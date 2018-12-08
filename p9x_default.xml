@@ -24,9 +24,9 @@
            revision="p9x"
            fetch="https://github.com/timocapa/" />
 
-  <!-- Track my GitLab remote -->
-  <remote  name="timocapa-gitlab"
-           fetch="https://gitlab.com/timocapa" />
+  <!-- Track Maxim's GittLab remote -->
+  <remote  name="mTresk-gitlab"
+           fetch="https://gitlab.com/mTresk" />
 
   <!-- OpenGApps -->
   <remote  name="opengapps" 
@@ -138,7 +138,7 @@
   <project path="vendor/themes" name="android_vendor_themes" remote="timocapa" />
 
   <!-- PixelStyle -->
-  <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="timocapa-gitlab" revision="android-9.0" />
+  <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="mTresk-gitlab" revision="android-9.0" />
 
   <!-- GApps -->
   <project path="vendor/opengapps/build" name="aosp_build" revision="master" remote="opengapps" />
